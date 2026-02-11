@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Learn with Rakesh",
+  "description": "A premium educational platform for students from Class 5 to 10 featuring a modern glassmorphic UI and an AI-powered study assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
